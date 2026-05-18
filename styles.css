@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.middle {
+	width:100%;
+}
+
+table, td {
+	border:1px solid black;
+	border-spacing: 1px;
+	padding: 1px;
+}
